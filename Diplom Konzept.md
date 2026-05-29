@@ -62,7 +62,7 @@ Vier vereinfachte Symbole — je ein kleines Icon + ein Wort + ein Mini-Satz aus
 | 1 | **Anforderung** | Sprechblase/Kästchen mit „SOLL" und einem Häkchen ✓ | **„SOLL"** | Was ein Ding können muss. | „Wenn die Fahrerin auf die Hupe drückt, soll das Auto hupen." |
 | 2 | **Teil / Baustein** | Einfaches Kästchen (Block) mit Symbol drin | **BAUSTEIN** | Ein Teil, aus dem das Ganze besteht. | Taster · Steuergerät/Computer · Verstärker · Lautsprecher |
 | 3 | **Kette / Fluss** | Pfeil → zwischen zwei Kästchen | **PFEIL** | Zeigt, wie die Teile zusammenhängen. | Taster → Computer → Verstärker → Lautsprecher |
-| 4 | **Rollen** | Vier kleine Köpfe/Figuren mit Schildchen | **TEAM** | Jeder im Team hat eine Aufgabe. | Karl (Kunde) · Karoline (Test) · Walter (Qualität) · Kevin (Gesetze) |
+| 4 | **Rollen** | Vier kleine Köpfe/Figuren mit Schildchen | **TEAM** | Jeder im Team hat eine Aufgabe. | Karl (Kunde) · Karoline (Test) · Kerstin (Qualität) · Kevin (Gesetze) |
 
 **Symbol-Gestaltungsprinzip:** bewusst „Kinder-SysML" — runde Ecken, dicke Striche, kräftige Farben, freundliche Gesichter. Kein echtes SysML-Notations-Detail (keine UML-Strenge), nur die *Idee* dahinter erkennbar.
 
@@ -94,13 +94,13 @@ Unten, klein, im Urkunden-Stil:
 Aus dem Ordner `Bilder/` — Design kann diese Figuren als Stil-Referenz oder direkt verwenden:
 
 - `Karoline.png` (Technikerin / Test)
-- `Walter.png` (Qualitätssicherung)
+- `Kerstin.png` (Qualitätssicherung)
 - `Kevin.png` (Jurist)
 - `Use-Case-Diagram.png` (Karl, der Kunde)
 - `Dekomposition_Variante_C.png` (finale Hupen-Kette)
 - `Schneemann.png` / `Apfelbaum.png` / `Haus.png` / `Sonne.png` (Stil der einfachen Element-Bilder)
 
-> Falls die vier Rollen-Köpfe für den „TEAM"-Symbolblock gebraucht werden, lassen sich Karl/Karoline/Walter/Kevin als kleine Kreis-Portraits wiederverwenden.
+> Falls die vier Rollen-Köpfe für den „TEAM"-Symbolblock gebraucht werden, lassen sich Karl/Karoline/Kerstin/Kevin als kleine Kreis-Portraits wiederverwenden.
 
 ---
 

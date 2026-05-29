@@ -100,9 +100,9 @@ Das ist meine Kollegin Karoline. Karoline baut mir einen sogenannten Prototypen 
 Stimmt, das ist sehr sehr leise ... Ich denke, wir müssen die Hupe zurück zur Qualitätssicherung geben. Die Qualitätssicherung überprüft, dass alles so gebaut wurde, wie geplant. 
 
 
-<img src="Bilder/Walter.png" alt="Walter (Qualitätssicherung)" width="150">
+<img src="Bilder/Kerstin.png" alt="Kerstin (Qualitätssicherung)" width="150">
 
-Walter bestätigt uns, dass in der Fertigung ein Fehler passiert ist: Das Schutzpickerl über dem Lautsprecher wurde noch nicht entfernt und hat die Hupe so leise gemacht. Also entfernen wir das Pickerl.
+Kerstin bestätigt uns, dass in der Fertigung ein Fehler passiert ist: Das Schutzpickerl über dem Lautsprecher wurde noch nicht entfernt und hat die Hupe so leise gemacht. Also entfernen wir das Pickerl.
 
 *Ein Kind drückt beim Prototypen auf den Taster und es kommt nur ein nicht ganz so leises Hupgeräusch.*
 

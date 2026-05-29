@@ -50,7 +50,7 @@ Statt Anforderungen zu *erklären*, lassen wir die Kinder welche **befolgen** un
 |---|---|---|---|
 | <img src="Bilder/Use-Case-Diagram.png" width="70"> | **Karl** | Kunde (Einhorn-Flitzer GmbH) | Wünsche & Abnahme |
 | <img src="Bilder/Karoline.png" width="70"> | **Karoline** | Technikerin | baut die Prototypen zum Testen |
-| <img src="Bilder/Walter.png" width="70"> | **Walter** | Qualitätssicherung | „Wurde es gebaut wie geplant?" |
+| <img src="Bilder/Kerstin.png" width="70"> | **Kerstin** | Qualitätssicherung | „Wurde es gebaut wie geplant?" |
 | <img src="Bilder/Kevin.png" width="70"> | **Kevin** | Jurist | Gesetze & Vorschriften (Hupe muss *laut* sein!) |
 
 ---
@@ -90,6 +90,21 @@ Die **Dekompositions-Diagramme** zeigen, wie die Hupe Schritt für Schritt wäch
 > Tipp: Die `> **Frage:**`-Kästen im Skript sind Stellen zum Innehalten und die
 > Klasse mitreden lassen.
 
+--- 
+
+## Erkenntnisse aus meinem Vortrag
+
+ - Er funktioniert großartig - genau die Herausforderung, was bedeutet eigentlich etwas, wie formuliere ich etwas so, dass mein Gegenüber es richtig versteht ... das haben die Kinder wunderbar vermittelt bekommen.
+ - Bei der 1. Gruppenarbeit hat die Hälfte der Kinder den Strich durch den Kreis gezogen (also drüber gelegt) und die andere Hälfte hat den Strich oben, tangential gelegt - beides korrekte Interpretationen der Anweisung "Auf den Kreis".
+ - Bei der 2. Gruppenarbeit, hat die Gruppe, die den Regenbogen mit Wolke hatte, nur geschrieben gehabt, dass es regnen soll, nicht WAS regnen soll. Die Kinder, die dann die Anweisungen umgesetzt haben, haben beschlossen, wenn es bei einem Regenbogen regnet, dann regnet es garantiert Eis am Stiel - großartig! Es wurde nicht spezifiziert und somit haben sie selbst Annahmen getroffen.
+ - Es war hilfreich, sie nach der 2. Gruppenarbeit an das Spiel Stille Post zu erinnern, weil die Diskussion aufgeflammt ist, dass Gruppe A etwas falsch beschrieben hat oder Gruppe B etwas falsch umgesetzt hat. Das konnte ich durch diesen Hinweis wieder befrieden.
+ - Die Dauer ist näher bei 80-90 Minuten. Aber es ging gut - alle Kinder waren voll mit dabei.
+ - Es ist überaus wichtig, als Backup Audiodateien dabei zu haben ... meine Prototypen haben ob der "sanften" Kinderhände nicht ganz durchgehalten ... aber sie waren trotzdem der Hit - weil sie auf andere Art und Weise den Vortrag aufgelockert haben.
+ - Die Lösungsbilder der 2. Gruppenarbeit größer ausdrucken (A3?).
+ - Die Diplome wurden allen Kindern einzeln überreicht - das hat auch großen Eindruck gemacht.
+ - Ob ich jetzt in Traunkirchen vor einem hundertköpfigen Fachpublikum oder in Wien vor einer 24-köpfigen Volksschulklasse spreche, es ist die gleiche Arbeit, die gleiche Freude, die gleiche glückliche Erschöpfung nach dem Vortrag - kann ich nur allen empfehlen!
+ - Die Fragen der Kinder waren um einiges kniffliger ... 
+
 ---
 
 ## Überarbeitungsideen
@@ -105,7 +120,7 @@ Vortragstag**. Reihenfolge ≈ Hebel/Wirkung.*
   der Höhepunkt (laut → „IAHHH" → Jubel) bleibt **nach** den Gruppenaufgaben. So gehen die
   Kinder mit Sinn-Kontext in die Eigenarbeit, und der ruhige Mittelteil bekommt keinen
   Spannungs-Durchhänger.
-- **Walter-/Qualitätssicherungs-Szene kürzen oder streichen.** Das „zu leise wegen
+- **Kerstin-/Qualitätssicherungs-Szene kürzen oder streichen.** Das „zu leise wegen
   Schutzpickerl" ist ein *Fertigungsfehler*, kein *Anforderungsfehler* — es vermischt zwei
   Lektionen und verdoppelt die „zu leise"-Schleife. Der saubere Dreischritt
   *leise → laut → Tierlaut* erzählt sich eleganter.
@@ -135,7 +150,7 @@ Vortragstag**. Reihenfolge ≈ Hebel/Wirkung.*
 ### Begriffe für die Jüngsten übersetzen
 - *Jurist* → „Kevin kennt alle Regeln, die ein Auto einhalten muss"
 - *Verstärker* → „macht den Ton lauter, so wie die Lautstärke-Taste"
-- *Qualitätssicherung* → „Walter schaut nach, ob alles richtig gebaut wurde"
+- *Qualitätssicherung* → „Kerstin schaut nach, ob alles richtig gebaut wurde"
 
 ### Diplom
 - Deutschen, für alle lesbaren **Haupttitel** groß nach vorne (z. B. „Nachwuchs-Systems-Engineer:in"
